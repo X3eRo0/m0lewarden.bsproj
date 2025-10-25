@@ -48,3 +48,9 @@ addr = 0x199b5
 func_addr = 0x192f0
 comment = "Print top-level menu: 1) Login  2) Register  3) Recover account  0) Exit"
 decompiled = true
+
+[0x19ebf]
+addr = 0x19ebf
+func_addr = 0x192f0
+comment = "Read line from stdin; parse signed integer choice (returns -1 on invalid)."
+decompiled = true
