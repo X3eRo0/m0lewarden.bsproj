@@ -261,3 +261,9 @@ last_change = 2025-10-25T02:46:21.847770Z
 addr = 0xab54
 name = "aMaincharShimFl"
 size = 0x86
+
+[0xab79]
+last_change = 2025-10-25T03:28:28.237480Z
+addr = 0xab79
+name = ""
+size = 0x1
