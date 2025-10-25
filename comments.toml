@@ -4,3 +4,10 @@ addr = 0x19c3c
 func_addr = 0x192f0
 comment = "if non-zero take this branch"
 decompiled = true
+
+[0x19c69]
+last_change = 2025-10-25T02:53:37.629200Z
+addr = 0x19c69
+func_addr = 0x192f0
+comment = "1 ^ 5 = 4"
+decompiled = true
