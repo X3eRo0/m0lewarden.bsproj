@@ -190,3 +190,10 @@ addr = 0x1b8a7
 func_addr = 0x192f0
 comment = "this variable used as DisplayPair here"
 decompiled = true
+
+[0x1aa0e]
+last_change = 2025-10-25T08:37:38.520731Z
+addr = 0x1aa0e
+func_addr = 0x192f0
+comment = "split by space and make vector"
+decompiled = true
