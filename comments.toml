@@ -90,3 +90,9 @@ addr = 0x196e8
 func_addr = 0x192f0
 comment = "Generate 20-word admin recovery phrase: loop i=1..19 adding words (total 20)."
 decompiled = true
+
+[0x19bd8]
+addr = 0x19bd8
+func_addr = 0x192f0
+comment = "Cap selection scan at 2048 entries (BIP39 wordlist size). Uses min(wordlist_len, 2048)."
+decompiled = true
