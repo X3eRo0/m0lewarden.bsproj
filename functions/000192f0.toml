@@ -1,4 +1,4 @@
-last_change = 2025-10-25T06:15:35.697801Z
+last_change = 2025-10-25T06:21:38.728931Z
 addr = 0x192f0
 size = 0x33e1
 name = "m0lewarden::main"
@@ -100,5 +100,12 @@ addr = 0x192f0
 last_change = 2025-10-25T06:09:14.625439Z
 offset = -16728
 name = "word_from_file"
+size = 0x10
+addr = 0x192f0
+
+[stack_vars.-0x4078]
+last_change = 2025-10-25T06:21:38.728931Z
+offset = -16504
+name = "new_string_from_word"
 size = 0x10
 addr = 0x192f0
