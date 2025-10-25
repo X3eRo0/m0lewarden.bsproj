@@ -13,8 +13,8 @@ type = "rust_str"
 size = 0x8
 
 [0x61a48]
-last_change = 2025-10-25T02:37:58.829534Z
+last_change = 2025-10-25T02:37:58.898435Z
 addr = 0x61a48
-name = "off_61A48"
+name = ""
 type = "rust_str"
-size = 0x8
+size = 0x10
