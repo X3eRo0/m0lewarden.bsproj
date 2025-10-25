@@ -136,3 +136,10 @@ addr = 0x61b68
 name = ""
 type = "rust_str"
 size = 0x8
+
+[0x61b78]
+last_change = 2025-10-25T02:39:02.103080Z
+addr = 0x61b78
+name = "off_61B78"
+type = "rust_str"
+size = 0x8
