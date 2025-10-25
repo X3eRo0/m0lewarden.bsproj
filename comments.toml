@@ -108,3 +108,9 @@ addr = 0x1970b
 func_addr = 0x192f0
 comment = "formatted string is in $rsp+0x230"
 decompiled = true
+
+[0x1a881]
+addr = 0x1a881
+func_addr = 0x192f0
+comment = "\nRecover path deep behavior: builds a token dictionary (RBTree) mapping unique word slices (ptr,len)\nto canonical entries; generates a deterministic 2048-element PRNG stream (xorshift-like) and per-\nposition numeric strings; for each position i, constructs composite keys using formatted usize\n(position/index/PRNG), and performs RBTree find/replace/insert to keep a structural mapping of\nexpected vs input tokens. Equality is enforced by per-position (len match + bcmp) across the two\nvectors; if any mismatch, parity accumulator remains 0 => failure; if all match, parity accumulator\nends 1 => success (UserID=0). Temporary RBTree and allocations are fully torn down after decision;\nthe main password map is unaffected.\n"
+decompiled = true
