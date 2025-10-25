@@ -6,8 +6,8 @@ comment = "if non-zero take this branch"
 decompiled = true
 
 [0x19c69]
-last_change = 2025-10-25T02:53:37.629200Z
+last_change = 2025-10-25T03:21:27.478519Z
 addr = 0x19c69
 func_addr = 0x192f0
-comment = "1 ^ 5 = 4"
+comment = "if user is set, then this is 4 (length of \"user\")\nif user is not set, then this is 5 (length of \"admin\")"
 decompiled = true
