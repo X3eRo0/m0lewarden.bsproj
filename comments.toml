@@ -72,3 +72,9 @@ addr = 0x1a580
 func_addr = 0x192f0
 comment = "Store password: RBTree.insert(name -> password). Duplicate names overwrite."
 decompiled = true
+
+[0x1a343]
+addr = 0x1a343
+func_addr = 0x192f0
+comment = "Search password: RBTree.find(name) → print value if found; else print not found."
+decompiled = true
