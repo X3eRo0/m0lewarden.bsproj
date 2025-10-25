@@ -1,0 +1,15 @@
+last_change = 2025-10-25T06:36:23.588818Z
+name = "$94F02999EED85FE8260D051C0A31FD51"
+size = 0x20
+
+[members.0x0]
+name = "arg0"
+offset = 0x0
+type = "DisplayArg"
+size = 0x10
+
+[members.0x10]
+name = "arg1"
+offset = 0x10
+type = "DisplayArg"
+size = 0x10
