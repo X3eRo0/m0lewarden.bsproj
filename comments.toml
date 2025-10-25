@@ -148,3 +148,10 @@ addr = 0x19be9
 func_addr = 0x192f0
 comment = "userID is initialized to -1 at program start, admin is 0 and user is 1"
 decompiled = true
+
+[0x1970b]
+last_change = 2025-10-25T06:44:40.646652Z
+addr = 0x1970b
+func_addr = 0x192f0
+comment = "formatted string is in $rsp+0x230"
+decompiled = true
