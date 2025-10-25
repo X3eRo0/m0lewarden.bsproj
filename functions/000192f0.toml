@@ -1,4 +1,4 @@
-last_change = 2025-10-25T07:07:27.560190Z
+last_change = 2025-10-25T07:07:41.066404Z
 addr = 0x192f0
 size = 0x33e1
 name = "m0lewarden::main"
@@ -141,9 +141,10 @@ size = 0x8
 addr = 0x192f0
 
 [stack_vars.-0x4290]
-last_change = 2025-10-25T07:07:20.361185Z
+last_change = 2025-10-25T07:07:41.066404Z
 offset = -17040
 name = "addr_of_current_input_string"
+type = "string_like *"
 size = 0x8
 addr = 0x192f0
 
