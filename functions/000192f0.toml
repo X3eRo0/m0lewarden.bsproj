@@ -40,6 +40,7 @@ addr = 0x192f0
 [stack_vars.-0x4268]
 offset = -17000
 name = "input_words"
+type = "rust_str *"
 size = 0x8
 addr = 0x192f0
 
@@ -64,6 +65,7 @@ addr = 0x192f0
 [stack_vars.-0x4018]
 offset = -16408
 name = "temp_string"
+type = "char *"
 size = 0x30
 addr = 0x192f0
 
@@ -108,4 +110,73 @@ addr = 0x192f0
 offset = -16888
 name = "_formatted_out"
 size = 0x18
+addr = 0x192f0
+
+[stack_vars.-0x40f0]
+offset = -16624
+name = "input_vector_strings"
+type = "vector_string"
+size = 0x18
+addr = 0x192f0
+
+[stack_vars.-0x4108]
+offset = -16648
+name = "admin_phrase_vector"
+size = 0x8
+addr = 0x192f0
+
+[stack_vars.-0x4290]
+offset = -17040
+name = "end_of_input_strings"
+type = "rust_str *"
+size = 0x8
+addr = 0x192f0
+
+[stack_vars.-0x41d8]
+offset = -16856
+name = "input_strings"
+size = 0x8
+addr = 0x192f0
+
+[stack_vars.-0x40b8]
+offset = -16568
+name = "__input_strings"
+size = 0x8
+addr = 0x192f0
+
+[stack_vars.-0x42a0]
+offset = -17056
+name = "iterator"
+size = 0x8
+addr = 0x192f0
+
+[stack_vars.-0x4080]
+offset = -16512
+name = "seed"
+size = 0x8
+addr = 0x192f0
+
+[stack_vars.-0x4088]
+offset = -16520
+name = "wordlist_words_arr1_end"
+size = 0x8
+addr = 0x192f0
+
+[stack_vars.-0x4240]
+offset = -16960
+name = "new_word_length"
+size = 0x8
+addr = 0x192f0
+
+[stack_vars.-0x41a0]
+offset = -16800
+name = "__new_word_storage"
+size = 0x8
+addr = 0x192f0
+
+[stack_vars.-0x41c8]
+offset = -16840
+name = "number_string_from_word"
+type = "char[20]"
+size = 0x14
 addr = 0x192f0
