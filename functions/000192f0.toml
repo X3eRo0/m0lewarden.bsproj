@@ -1,4 +1,4 @@
-last_change = 2025-10-25T07:19:06.936364Z
+last_change = 2025-10-25T07:28:03.769700Z
 addr = 0x192f0
 size = 0x33e1
 name = "m0lewarden::main"
@@ -70,10 +70,11 @@ size = 0x8
 addr = 0x192f0
 
 [stack_vars.-0x4018]
-last_change = 2025-10-25T06:30:20.272690Z
+last_change = 2025-10-25T07:28:03.769700Z
 offset = -16408
 name = "temp_string"
-size = 0x30
+type = "char *"
+size = 0x8
 addr = 0x192f0
 
 [stack_vars.-0x4120]
