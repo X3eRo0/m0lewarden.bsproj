@@ -1,9 +1,9 @@
-last_change = 2025-10-25T06:03:22.478667Z
+last_change = 2025-10-25T06:08:57.306328Z
 name = "file_content_arr"
 size = 0x30
 
 [members.0x0]
-name = "a"
+name = "index_maybe"
 offset = 0x0
 type = "unsigned long long"
 size = 0x8
