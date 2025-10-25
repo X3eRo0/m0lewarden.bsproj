@@ -1,4 +1,4 @@
-last_change = 2025-10-25T05:59:09.920893Z
+last_change = 2025-10-25T06:00:47.960577Z
 addr = 0x192f0
 size = 0x33e1
 name = "m0lewarden::main"
@@ -85,5 +85,12 @@ addr = 0x192f0
 last_change = 2025-10-25T05:59:09.920893Z
 offset = -16736
 name = "some_len_len2"
+size = 0x8
+addr = 0x192f0
+
+[stack_vars.-0x4200]
+last_change = 2025-10-25T06:00:47.960577Z
+offset = -16896
+name = "__file_contents"
 size = 0x8
 addr = 0x192f0
