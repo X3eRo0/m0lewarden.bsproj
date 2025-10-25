@@ -7,3 +7,8 @@ type = "__va_list_tag[1]"
 last_change = 2025-10-25T03:43:05.960628Z
 name = "RustString"
 type = "$FF49D1C98CE644E68ED0F9ED93C79411"
+
+[RustStr]
+last_change = 2025-10-25T03:43:05.965815Z
+name = "RustStr"
+type = "$BDAB922E48BEAA9A0A4F0883CB6D0B96"
