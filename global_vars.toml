@@ -179,10 +179,10 @@ type = "rust_str *"
 size = 0x8
 
 [0xab5c]
-last_change = 2025-10-25T02:46:21.796528Z
+last_change = 2025-10-25T02:46:21.825330Z
 addr = 0xab5c
-name = "asc_AB5C"
-size = 0x4
+name = ""
+size = 0x1
 
 [0xab60]
 last_change = 2025-10-25T02:46:21.798124Z
