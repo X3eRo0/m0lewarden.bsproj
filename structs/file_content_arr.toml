@@ -1,0 +1,33 @@
+last_change = 2025-10-25T06:03:22.478667Z
+name = "file_content_arr"
+size = 0x30
+
+[members.0x0]
+name = "a"
+offset = 0x0
+type = "unsigned long long"
+size = 0x8
+
+[members.0x8]
+name = "len1"
+offset = 0x8
+type = "unsigned long long"
+size = 0x8
+
+[members.0x10]
+name = "data"
+offset = 0x10
+type = "rust_str"
+size = 0x10
+
+[members.0x20]
+name = "b"
+offset = 0x20
+type = "unsigned long long"
+size = 0x8
+
+[members.0x28]
+name = "len2"
+offset = 0x28
+type = "unsigned long long"
+size = 0x8
