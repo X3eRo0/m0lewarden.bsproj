@@ -14,11 +14,13 @@ addr = 0x192f0
 last_change = 2025-10-25T03:41:12.031886Z
 offset = -16
 name = "some_buf"
+type = "DisplayArgPair"
 size = 0x4030
 addr = 0x192f0
 
 [stack_vars.-0x4030]
 offset = -16432
+name = "temp_formatted_out"
 type = "__int128"
 size = 0x10
 addr = 0x192f0
@@ -51,4 +53,59 @@ addr = 0x192f0
 offset = -16656
 name = "total_word_len"
 size = 0x8
+addr = 0x192f0
+
+[stack_vars.-0x3fe8]
+offset = -16360
+type = "long long"
+size = 0x8
+addr = 0x192f0
+
+[stack_vars.-0x4018]
+offset = -16408
+name = "temp_string"
+size = 0x30
+addr = 0x192f0
+
+[stack_vars.-0x4120]
+offset = -16672
+name = "file_content_vector"
+type = "struct vector_string"
+size = 0x18
+addr = 0x192f0
+
+[stack_vars.-0x4160]
+offset = -16736
+name = "some_len_len2"
+size = 0x8
+addr = 0x192f0
+
+[stack_vars.-0x4200]
+offset = -16896
+name = "__file_contents"
+size = 0x8
+addr = 0x192f0
+
+[stack_vars.-0x4158]
+offset = -16728
+name = "word_from_file"
+size = 0x10
+addr = 0x192f0
+
+[stack_vars.-0x4078]
+offset = -16504
+name = "formatted_out"
+size = 0x18
+addr = 0x192f0
+
+[stack_vars.-0x4060]
+offset = -16480
+type = "unsigned long long[3]"
+size = 0x18
+addr = 0x192f0
+
+[stack_vars.-0x41f8]
+offset = -16888
+name = "_formatted_out"
+size = 0x18
 addr = 0x192f0
