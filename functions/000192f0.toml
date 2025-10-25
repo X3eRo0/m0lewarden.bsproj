@@ -1,4 +1,4 @@
-last_change = 2025-10-25T06:26:00.428341Z
+last_change = 2025-10-25T06:29:43.450187Z
 addr = 0x192f0
 size = 0x33e1
 name = "m0lewarden::main"
@@ -11,10 +11,11 @@ addr = 0x192f0
 [header.args]
 
 [stack_vars.-0x4030]
-last_change = 2025-10-25T02:42:07.028802Z
+last_change = 2025-10-25T06:29:43.450187Z
 offset = -16432
+name = "temp_formatted_out"
 type = "__int128"
-size = 0x10
+size = 0x18
 addr = 0x192f0
 
 [stack_vars.-0x10]
