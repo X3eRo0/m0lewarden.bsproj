@@ -138,3 +138,10 @@ addr = 0x1b8a7
 func_addr = 0x192f0
 comment = "this variable used as DisplayPair here"
 decompiled = true
+
+[0x1bdf2]
+last_change = 2025-10-25T08:58:39.414613Z
+addr = 0x1bdf2
+func_addr = 0x192f0
+comment = "// this guy prints those random values"
+decompiled = true
