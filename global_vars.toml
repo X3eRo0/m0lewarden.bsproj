@@ -158,8 +158,8 @@ name = ""
 size = 0x1
 
 [0x61b98]
-last_change = 2025-10-25T02:39:09.263400Z
+last_change = 2025-10-25T02:39:09.309805Z
 addr = 0x61b98
-name = "off_61B98"
+name = ""
 type = "rust_str"
-size = 0x8
+size = 0x10
