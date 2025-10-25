@@ -22,3 +22,8 @@ type = "$762FC9FB8890024948C1B3285FFB0CB2"
 last_change = 2025-10-25T06:24:42.278666Z
 name = "uint64_t"
 type = "unsigned long long"
+
+[string_like]
+last_change = 2025-10-25T06:24:42.279788Z
+name = "string_like"
+type = "$775F790E7164B72ED985F390F87C446B"
