@@ -120,3 +120,9 @@ addr = 0x1aadc
 func_addr = 0x192f0
 comment = "find our word in wordlist"
 decompiled = true
+
+[0x1ab76]
+addr = 0x1ab76
+func_addr = 0x192f0
+comment = "generates 0x4000 random bytes based on seed"
+decompiled = true
