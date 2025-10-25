@@ -183,3 +183,9 @@ last_change = 2025-10-25T02:46:21.796528Z
 addr = 0xab5c
 name = "asc_AB5C"
 size = 0x4
+
+[0xab60]
+last_change = 2025-10-25T02:46:21.798124Z
+addr = 0xab60
+name = "asc_AB60"
+size = 0x4
