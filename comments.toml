@@ -159,8 +159,8 @@ comment = "rbtree[hash]=iterator"
 decompiled = true
 
 [0x1ae57]
-last_change = 2025-10-25T11:30:08.191884Z
+last_change = 2025-10-25T11:51:53.938706Z
 addr = 0x1ae57
 func_addr = 0x192f0
-comment = "compute hash of expected string"
+comment = "compute hash of expected string (20 admin words)"
 decompiled = true
