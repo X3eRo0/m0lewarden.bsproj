@@ -1,4 +1,4 @@
-last_change = 2025-10-25T06:24:52.840960Z
+last_change = 2025-10-25T06:25:52.426833Z
 addr = 0x192f0
 size = 0x33e1
 name = "m0lewarden::main"
@@ -104,10 +104,10 @@ size = 0x10
 addr = 0x192f0
 
 [stack_vars.-0x4078]
-last_change = 2025-10-25T06:21:38.728931Z
+last_change = 2025-10-25T06:25:52.426833Z
 offset = -16504
-name = "new_string_from_word"
-size = 0x10
+name = "formatted_out"
+size = 0x18
 addr = 0x192f0
 
 [stack_vars.-0x4060]
