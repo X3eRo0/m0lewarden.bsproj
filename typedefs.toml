@@ -27,3 +27,8 @@ type = "unsigned long long"
 last_change = 2025-10-25T06:24:42.279788Z
 name = "string_like"
 type = "$775F790E7164B72ED985F390F87C446B"
+
+[DisplayArg]
+last_change = 2025-10-25T06:36:23.587678Z
+name = "DisplayArg"
+type = "$89A34B0DEEF77649B2D2B136AA962FB0"
