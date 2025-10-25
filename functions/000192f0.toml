@@ -1,4 +1,4 @@
-last_change = 2025-10-25T06:25:52.426833Z
+last_change = 2025-10-25T06:26:00.428341Z
 addr = 0x192f0
 size = 0x33e1
 name = "m0lewarden::main"
@@ -114,5 +114,12 @@ addr = 0x192f0
 last_change = 2025-10-25T06:24:52.840960Z
 offset = -16480
 type = "unsigned long long[3]"
+size = 0x18
+addr = 0x192f0
+
+[stack_vars.-0x41f8]
+last_change = 2025-10-25T06:26:00.428341Z
+offset = -16888
+name = "_formatted_out"
 size = 0x18
 addr = 0x192f0
