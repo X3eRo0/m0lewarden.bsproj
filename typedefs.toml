@@ -17,3 +17,8 @@ type = "$BDAB922E48BEAA9A0A4F0883CB6D0B96"
 last_change = 2025-10-25T03:46:36.900845Z
 name = "StrRef"
 type = "$762FC9FB8890024948C1B3285FFB0CB2"
+
+[uint64_t]
+last_change = 2025-10-25T06:24:42.278666Z
+name = "uint64_t"
+type = "unsigned long long"
