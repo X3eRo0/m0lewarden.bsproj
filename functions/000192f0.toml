@@ -1,10 +1,54 @@
 last_change = 2025-10-25T04:56:28.193697Z
 addr = 0x192f0
 size = 0x33e1
+name = "m0lewarden::main"
+
+[header]
+last_change = 2025-10-25T03:41:43.362801Z
+name = "m0lewarden::main"
+addr = 0x192f0
+
+[header.args]
 
 [stack_vars.-0x10]
 last_change = 2025-10-25T03:41:12.031886Z
 offset = -16
 name = "some_buf"
 size = 0x4030
+addr = 0x192f0
+
+[stack_vars.-0x4030]
+offset = -16432
+type = "__int128"
+size = 0x10
+addr = 0x192f0
+
+[stack_vars.-0x40e0]
+offset = -16608
+name = "_expected_word_count"
+size = 0x8
+addr = 0x192f0
+
+[stack_vars.-0x40f8]
+offset = -16632
+name = "_input_word_count"
+size = 0x8
+addr = 0x192f0
+
+[stack_vars.-0x4268]
+offset = -17000
+name = "input_words"
+size = 0x8
+addr = 0x192f0
+
+[stack_vars.-0x41d0]
+offset = -16848
+name = "total_word_arr_len"
+size = 0x8
+addr = 0x192f0
+
+[stack_vars.-0x4110]
+offset = -16656
+name = "total_word_len"
+size = 0x8
 addr = 0x192f0
