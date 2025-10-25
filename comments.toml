@@ -11,3 +11,10 @@ addr = 0x1ceb0
 func_addr = 0x1ceb0
 comment = "main thunk → std::rt::lang_start_internal(&m0lewarden::main, ...). Rust runtime entry to user main."
 decompiled = true
+
+[0x17ff0]
+last_change = 2025-10-25T03:42:58.431637Z
+addr = 0x17ff0
+func_addr = 0x17ff0
+comment = "_start → __libc_start_main(main, ...) → std::rt::lang_start_internal → m0lewarden::main. Entry chain\nbreadcrumb."
+decompiled = true
