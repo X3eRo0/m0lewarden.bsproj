@@ -249,3 +249,9 @@ last_change = 2025-10-25T02:46:21.829929Z
 addr = 0xab68
 name = ""
 size = 0x1
+
+[0xab78]
+last_change = 2025-10-25T02:46:21.835923Z
+addr = 0xab78
+name = ""
+size = 0x1
