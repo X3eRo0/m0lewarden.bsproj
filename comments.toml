@@ -95,3 +95,10 @@ addr = 0x3a5e0
 func_addr = 0x3a5e0
 comment = "std::rt::lang_start_internal — Rust runtime bootstrap. Calls user entry (m0lewarden::main) via\nFnOnce thunk and handles panics."
 decompiled = true
+
+[0x1dca0]
+last_change = 2025-10-25T03:45:36.407831Z
+addr = 0x1dca0
+func_addr = 0x1dca0
+comment = "m0lewarden::utils::read_line — reads a line from stdin, returns trimmed RustStr (ptr,len). Panics on\nI/O error."
+decompiled = true
