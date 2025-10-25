@@ -1,0 +1,45 @@
+last_change = 2025-10-25T08:08:00.314723Z
+name = "RBNode"
+size = 0x30
+
+[members.0x0]
+name = "parent"
+offset = 0x0
+type = "struct RBNode *"
+size = 0x8
+
+[members.0x8]
+name = "left"
+offset = 0x8
+type = "struct RBNode *"
+size = 0x8
+
+[members.0x10]
+name = "right"
+offset = 0x10
+type = "struct RBNode *"
+size = 0x8
+
+[members.0x18]
+name = "value"
+offset = 0x18
+type = "void *"
+size = 0x8
+
+[members.0x20]
+name = "color"
+offset = 0x20
+type = "uint8_t"
+size = 0x1
+
+[members.0x21]
+name = "_pad"
+offset = 0x21
+type = "uint8_t[7]"
+size = 0x7
+
+[members.0x28]
+name = "key_or_meta"
+offset = 0x28
+type = "void *"
+size = 0x8
