@@ -47,8 +47,8 @@ name = ""
 size = 0x2
 
 [0x61a88]
-last_change = 2025-10-25T02:38:09.859036Z
+last_change = 2025-10-25T02:38:09.909187Z
 addr = 0x61a88
-name = "off_61A88"
+name = ""
 type = "rust_str"
-size = 0x8
+size = 0x10
