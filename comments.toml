@@ -102,3 +102,10 @@ addr = 0x1dca0
 func_addr = 0x1dca0
 comment = "m0lewarden::utils::read_line — reads a line from stdin, returns trimmed RustStr (ptr,len). Panics on\nI/O error."
 decompiled = true
+
+[0x1daf0]
+last_change = 2025-10-25T03:45:36.778875Z
+addr = 0x1daf0
+func_addr = 0x1daf0
+comment = "m0lewarden::utils::sc — string builder/concat helper used to assemble formatted buffers."
+decompiled = true
