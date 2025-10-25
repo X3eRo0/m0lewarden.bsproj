@@ -185,10 +185,10 @@ name = ""
 size = 0x1
 
 [0xab60]
-last_change = 2025-10-25T02:46:21.798124Z
+last_change = 2025-10-25T02:46:21.826801Z
 addr = 0xab60
-name = "asc_AB60"
-size = 0x4
+name = ""
+size = 0x1
 
 [0xab64]
 last_change = 2025-10-25T02:46:21.799601Z
