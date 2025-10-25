@@ -1,0 +1,15 @@
+last_change = 2025-10-25T03:46:36.898107Z
+name = "$762FC9FB8890024948C1B3285FFB0CB2"
+size = 0x10
+
+[members.0x0]
+name = "ptr"
+offset = 0x0
+type = "const char *"
+size = 0x8
+
+[members.0x8]
+name = "len"
+offset = 0x8
+type = "size_t"
+size = 0x8
