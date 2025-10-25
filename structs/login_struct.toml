@@ -1,0 +1,14 @@
+name = "login_struct"
+size = 0x10
+
+[members.0x0]
+name = "username"
+offset = 0x0
+type = "char *"
+size = 0x8
+
+[members.0x8]
+name = "username_len"
+offset = 0x8
+type = "int"
+size = 0x4
