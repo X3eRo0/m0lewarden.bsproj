@@ -1,4 +1,4 @@
-last_change = 2025-10-25T05:31:57.400889Z
+last_change = 2025-10-25T05:51:08.913719Z
 addr = 0x192f0
 size = 0x33e1
 name = "m0lewarden::main"
@@ -56,5 +56,12 @@ addr = 0x192f0
 last_change = 2025-10-25T05:31:57.400889Z
 offset = -16656
 name = "total_word_len"
+size = 0x8
+addr = 0x192f0
+
+[stack_vars.-0x3fe8]
+last_change = 2025-10-25T05:51:08.913719Z
+offset = -16360
+type = "long long"
 size = 0x8
 addr = 0x192f0
