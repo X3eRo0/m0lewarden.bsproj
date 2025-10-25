@@ -1,0 +1,6 @@
+[0x192f0]
+last_change = 2025-10-25T03:42:57.754524Z
+addr = 0x192f0
+func_addr = 0x192f0
+comment = "m0lewarden::main — CLI password vault (CTF). Flow: 1) Load bip39.txt into Vec<String>. 2) Generate\n20-word admin recovery phrase using getrandom (indices into wordlist). 3) Print main menu (Login /\nRegister / Recover / Exit). 4) Loop reading user input; parse numeric choice. 5) Maintain an\nRBTree<String,String> mapping (name -> password). Logged-in menu: Store password / Search password /\nLogout / Exit. Recovery requires exact 20-word phrase tokens (memcmp on trimmed input). Panics on\nIO/RNG unwrap errors. Inputs: stdin lines; Outputs: menu/status lines. Success: admin phrase match\n=> logged in; storing/searching uses RBTree find/insert."
+decompiled = true
