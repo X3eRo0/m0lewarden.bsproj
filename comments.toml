@@ -151,3 +151,9 @@ addr = 0x1aa0e
 func_addr = 0x192f0
 comment = "split by space and make vector"
 decompiled = true
+
+[0x1bd05]
+addr = 0x1bd05
+func_addr = 0x192f0
+comment = "rbtree[hash]=iterator"
+decompiled = true
