@@ -39,3 +39,10 @@ addr = 0x19606
 func_addr = 0x192f0
 comment = "Select first word: random_u32 % wordlist_len; push formatted word into phrase string."
 decompiled = true
+
+[0x199b5]
+last_change = 2025-10-25T03:44:15.075306Z
+addr = 0x199b5
+func_addr = 0x192f0
+comment = "Print top-level menu: 1) Login  2) Register  3) Recover account  0) Exit"
+decompiled = true
