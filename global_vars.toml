@@ -156,3 +156,10 @@ last_change = 2025-10-25T02:39:06.373211Z
 addr = 0xb3c8
 name = ""
 size = 0x1
+
+[0x61b98]
+last_change = 2025-10-25T02:39:09.263400Z
+addr = 0x61b98
+name = "off_61B98"
+type = "rust_str"
+size = 0x8
