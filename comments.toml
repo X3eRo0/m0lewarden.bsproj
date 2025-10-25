@@ -66,3 +66,9 @@ addr = 0x1a7ed
 func_addr = 0x192f0
 comment = "Recover: compare trimmed user phrase against expected (memcmp). Success → login state = 1."
 decompiled = true
+
+[0x1a580]
+addr = 0x1a580
+func_addr = 0x192f0
+comment = "Store password: RBTree.insert(name -> password). Duplicate names overwrite."
+decompiled = true
