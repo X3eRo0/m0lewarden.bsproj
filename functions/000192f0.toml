@@ -1,4 +1,4 @@
-last_change = 2025-10-25T09:01:07.016549Z
+last_change = 2025-10-25T09:02:33.765606Z
 addr = 0x192f0
 size = 0x33e1
 name = "m0lewarden::main"
@@ -225,5 +225,12 @@ addr = 0x192f0
 last_change = 2025-10-25T09:01:07.016549Z
 offset = -16528
 name = "worlist_end"
+size = 0x8
+addr = 0x192f0
+
+[stack_vars.-0x4100]
+last_change = 2025-10-25T09:02:33.765606Z
+offset = -16640
+type = "string_like *"
 size = 0x8
 addr = 0x192f0
