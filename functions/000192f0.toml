@@ -1,4 +1,4 @@
-last_change = 2025-10-25T07:34:31.211875Z
+last_change = 2025-10-25T07:35:06.007382Z
 addr = 0x192f0
 size = 0x33e1
 name = "m0lewarden::main"
@@ -175,5 +175,12 @@ addr = 0x192f0
 last_change = 2025-10-25T07:33:55.608573Z
 offset = -16512
 name = "seed"
+size = 0x8
+addr = 0x192f0
+
+[stack_vars.-0x4088]
+last_change = 2025-10-25T07:35:06.007382Z
+offset = -16520
+name = "wordlist_words_arr1_end"
 size = 0x8
 addr = 0x192f0
