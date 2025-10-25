@@ -136,3 +136,9 @@ addr = 0x19c3c
 func_addr = 0x192f0
 comment = "if non-zero take this branch"
 decompiled = true
+
+[0x19c69]
+addr = 0x19c69
+func_addr = 0x192f0
+comment = "if user is set, then this is 4 (length of \"user\")\nif user is not set, then this is 5 (length of \"admin\")"
+decompiled = true
