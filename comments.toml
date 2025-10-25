@@ -109,3 +109,10 @@ addr = 0x1daf0
 func_addr = 0x1daf0
 comment = "m0lewarden::utils::sc — string builder/concat helper used to assemble formatted buffers."
 decompiled = true
+
+[0x196e8]
+last_change = 2025-10-25T03:46:30.230010Z
+addr = 0x196e8
+func_addr = 0x192f0
+comment = "Generate 20-word admin recovery phrase: loop i=1..19 adding words (total 20)."
+decompiled = true
