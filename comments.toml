@@ -32,3 +32,10 @@ addr = 0x194d8
 func_addr = 0x192f0
 comment = "Init getrandom backend; read 4 bytes entropy for phrase index generation (with retry/errno\nhandling)."
 decompiled = true
+
+[0x19606]
+last_change = 2025-10-25T03:44:14.346997Z
+addr = 0x19606
+func_addr = 0x192f0
+comment = "Select first word: random_u32 % wordlist_len; push formatted word into phrase string."
+decompiled = true
