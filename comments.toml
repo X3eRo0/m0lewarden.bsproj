@@ -211,3 +211,10 @@ addr = 0x1ad0f
 func_addr = 0x192f0
 comment = "these are admin phrase words"
 decompiled = true
+
+[0x1ac8a]
+last_change = 2025-10-25T10:23:17.994244Z
+addr = 0x1ac8a
+func_addr = 0x192f0
+comment = "these are our input words"
+decompiled = true
