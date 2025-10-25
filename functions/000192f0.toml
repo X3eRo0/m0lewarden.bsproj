@@ -180,3 +180,27 @@ name = "number_string_from_word"
 type = "char[20]"
 size = 0x14
 addr = 0x192f0
+
+[stack_vars.-0x41a8]
+offset = -16808
+name = "number_string_we_got"
+size = 0x8
+addr = 0x192f0
+
+[stack_vars.-0x4270]
+offset = -17008
+name = "word_buff"
+size = 0x8
+addr = 0x192f0
+
+[stack_vars.-0x4090]
+offset = -16528
+name = "worlist_end"
+size = 0x8
+addr = 0x192f0
+
+[stack_vars.-0x4100]
+offset = -16640
+type = "string_like **"
+size = 0x8
+addr = 0x192f0
