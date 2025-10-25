@@ -1,0 +1,15 @@
+last_change = 2025-10-25T06:36:23.586280Z
+name = "$89A34B0DEEF77649B2D2B136AA962FB0"
+size = 0x10
+
+[members.0x0]
+name = "value"
+offset = 0x0
+type = "const void *"
+size = 0x8
+
+[members.0x8]
+name = "fmt_fn"
+offset = 0x8
+type = "const void *"
+size = 0x8
