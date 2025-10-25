@@ -132,3 +132,9 @@ addr = 0x1bc45
 func_addr = 0x192f0
 comment = "creates ascii numbers from the random numbers we generated earlier"
 decompiled = true
+
+[0x1b8a7]
+addr = 0x1b8a7
+func_addr = 0x192f0
+comment = "this variable used as DisplayPair here"
+decompiled = true
