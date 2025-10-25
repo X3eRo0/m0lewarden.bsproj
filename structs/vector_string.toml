@@ -1,4 +1,4 @@
-last_change = 2025-10-25T05:55:56.723416Z
+last_change = 2025-10-25T07:06:48.708075Z
 name = "vector_string"
 size = 0x18
 
@@ -11,7 +11,7 @@ size = 0x8
 [members.0x8]
 name = "strings"
 offset = 0x8
-type = "rust_str *"
+type = "string_like *"
 size = 0x8
 
 [members.0x10]
