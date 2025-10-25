@@ -1,4 +1,4 @@
-last_change = 2025-10-25T07:00:53.228925Z
+last_change = 2025-10-25T07:02:07.794228Z
 addr = 0x192f0
 size = 0x33e1
 name = "m0lewarden::main"
@@ -126,8 +126,8 @@ size = 0x18
 addr = 0x192f0
 
 [stack_vars.-0x40f0]
-last_change = 2025-10-25T07:00:53.228925Z
+last_change = 2025-10-25T07:02:07.794228Z
 offset = -16624
-name = "vector_of_strings"
+name = "input_vector_strings"
 size = 0x8
 addr = 0x192f0
