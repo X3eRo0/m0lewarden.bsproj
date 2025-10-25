@@ -209,10 +209,10 @@ name = ""
 size = 0x1
 
 [0xab7d]
-last_change = 2025-10-25T02:46:21.838055Z
+last_change = 2025-10-25T03:28:28.223309Z
 addr = 0xab7d
-name = ""
-size = 0x1
+name = "asc_AB7D"
+size = 0xd
 
 [0xab8a]
 last_change = 2025-10-25T02:46:21.839862Z
