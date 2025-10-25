@@ -1,4 +1,4 @@
-last_change = 2025-10-25T02:37:27.209279Z
+last_change = 2025-10-25T06:32:18.640450Z
 name = "rust_str"
 size = 0x10
 
@@ -11,5 +11,5 @@ size = 0x8
 [members.0x8]
 name = "len"
 offset = 0x8
-type = "int"
-size = 0x4
+type = "unsigned long long"
+size = 0x8
