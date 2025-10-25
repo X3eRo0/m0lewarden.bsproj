@@ -45,3 +45,10 @@ last_change = 2025-10-25T02:38:07.215888Z
 addr = 0xb3e0
 name = ""
 size = 0x2
+
+[0x61a88]
+last_change = 2025-10-25T02:38:09.859036Z
+addr = 0x61a88
+name = "off_61A88"
+type = "rust_str"
+size = 0x8
