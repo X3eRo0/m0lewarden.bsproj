@@ -1,0 +1,21 @@
+last_change = 2025-10-25T06:24:42.275759Z
+name = "$775F790E7164B72ED985F390F87C446B"
+size = 0x18
+
+[members.0x0]
+name = "len"
+offset = 0x0
+type = "uint64_t"
+size = 0x8
+
+[members.0x8]
+name = "ptr"
+offset = 0x8
+type = "const char *"
+size = 0x8
+
+[members.0x10]
+name = "cap"
+offset = 0x10
+type = "uint64_t"
+size = 0x8
