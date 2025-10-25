@@ -126,3 +126,9 @@ addr = 0x1ab76
 func_addr = 0x192f0
 comment = "generates 0x4000 random bytes based on seed"
 decompiled = true
+
+[0x1bc45]
+addr = 0x1bc45
+func_addr = 0x192f0
+comment = "creates ascii numbers from the random numbers we generated earlier"
+decompiled = true
