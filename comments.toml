@@ -60,3 +60,9 @@ addr = 0x1a749
 func_addr = 0x192f0
 comment = "switch(menu_choice): 0=Exit, 1=Login, 2=Register, 3=Recover account"
 decompiled = true
+
+[0x1a7ed]
+addr = 0x1a7ed
+func_addr = 0x192f0
+comment = "Recover: compare trimmed user phrase against expected (memcmp). Success → login state = 1."
+decompiled = true
