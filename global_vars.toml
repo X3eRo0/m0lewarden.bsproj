@@ -1,6 +1,6 @@
 [0x61a28]
-last_change = 2025-10-25T02:36:03.819737Z
+last_change = 2025-10-25T02:37:37.809582Z
 addr = 0x61a28
 name = "off_61A28"
-type = "char *"
+type = "rust_str"
 size = 0x8
