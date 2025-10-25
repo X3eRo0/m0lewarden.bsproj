@@ -2,3 +2,7 @@
 last_change = 2025-10-25T02:38:34.619031Z
 name = "gcc_va_list"
 type = "__va_list_tag[1]"
+
+[DisplayArgPair]
+name = "DisplayArgPair"
+type = "$94F02999EED85FE8260D051C0A31FD51"
