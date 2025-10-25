@@ -1,0 +1,10 @@
+last_change = 2025-10-25T02:47:04.730696Z
+addr = 0x180e0
+size = 0x11a
+
+[stack_vars.-0x40]
+last_change = 2025-10-25T02:47:04.730696Z
+offset = -64
+name = "FLAG_ENV"
+size = 0x8
+addr = 0x180e0
