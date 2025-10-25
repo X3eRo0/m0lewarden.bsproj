@@ -1,3 +1,10 @@
-last_change = 2025-10-25T03:21:27.478519Z
+last_change = 2025-10-25T03:41:12.031886Z
 addr = 0x192f0
 size = 0x33e1
+
+[stack_vars.-0x10]
+last_change = 2025-10-25T03:41:12.031886Z
+offset = -16
+name = "some_buf"
+size = 0x4030
+addr = 0x192f0
