@@ -1,0 +1,6 @@
+[0x19c3c]
+last_change = 2025-10-25T02:50:06.020315Z
+addr = 0x19c3c
+func_addr = 0x192f0
+comment = "if non-zero take this branch"
+decompiled = true
