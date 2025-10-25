@@ -1,4 +1,4 @@
-last_change = 2025-10-25T05:54:47.429016Z
+last_change = 2025-10-25T05:56:42.173324Z
 addr = 0x192f0
 size = 0x33e1
 name = "m0lewarden::main"
@@ -74,8 +74,9 @@ size = 0x10
 addr = 0x192f0
 
 [stack_vars.-0x4120]
-last_change = 2025-10-25T05:54:47.429016Z
+last_change = 2025-10-25T05:56:42.173324Z
 offset = -16672
 name = "file_content_vector"
-size = 0x8
+type = "struct vector_string"
+size = 0x18
 addr = 0x192f0
