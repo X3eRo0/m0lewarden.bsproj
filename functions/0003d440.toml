@@ -1,11 +1,11 @@
-last_change = 2025-10-25T02:29:22.525946Z
+last_change = 2025-10-25T02:38:33.110876Z
 addr = 0x3d440
 size = 0xcb
-name = "_ZN3std2io5stdio6_print17h87d04f1826f04cafE________x3ero0"
+name = "sub_3D440"
 
 [header]
-last_change = 2025-10-25T02:29:22.525946Z
-name = "_ZN3std2io5stdio6_print17h87d04f1826f04cafE________x3ero0"
+last_change = 2025-10-25T02:38:33.110876Z
+name = "sub_3D440"
 addr = 0x3d440
 
 [header.args]
