@@ -1,4 +1,4 @@
-last_change = 2025-10-25T10:23:17.994244Z
+last_change = 2025-10-25T10:27:03.640838Z
 addr = 0x192f0
 size = 0x33e1
 name = "m0lewarden::main"
@@ -114,8 +114,9 @@ size = 0x18
 addr = 0x192f0
 
 [stack_vars.-0x4060]
-last_change = 2025-10-25T06:24:52.840960Z
+last_change = 2025-10-25T10:27:03.640838Z
 offset = -16480
+name = "another_random_number_from_word_idx"
 type = "unsigned long long[3]"
 size = 0x18
 addr = 0x192f0
