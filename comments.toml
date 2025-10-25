@@ -81,3 +81,10 @@ addr = 0x1a343
 func_addr = 0x192f0
 comment = "Search password: RBTree.find(name) → print value if found; else print not found."
 decompiled = true
+
+[0x1c054]
+last_change = 2025-10-25T03:44:20.863136Z
+addr = 0x1c054
+func_addr = 0x192f0
+comment = "Case 0 (Exit): clear RBTree and free buffers, then return."
+decompiled = true
