@@ -1,4 +1,4 @@
-last_change = 2025-10-25T06:30:20.272690Z
+last_change = 2025-10-25T06:36:28.244495Z
 addr = 0x192f0
 size = 0x33e1
 name = "m0lewarden::main"
@@ -19,11 +19,11 @@ size = 0x18
 addr = 0x192f0
 
 [stack_vars.-0x10]
-last_change = 2025-10-25T06:15:35.697801Z
+last_change = 2025-10-25T06:36:28.244495Z
 offset = -16
 name = "some_var"
-type = "char[32]"
-size = 0x4030
+type = "DisplayArgPair"
+size = 0x20
 addr = 0x192f0
 
 [stack_vars.-0x40e0]
